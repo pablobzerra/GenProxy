@@ -1,5 +1,5 @@
 # GenProxy
-![alt text](GenProxy/banner.png)
+![alt text](banner.jpg)
 ##
 
 Gerador de proxy utilizando uma api do https://geonode.com
